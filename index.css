@@ -355,6 +355,7 @@ body.lock {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    align-items: center;
     gap: 10px;
   }
 }
