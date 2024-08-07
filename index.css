@@ -162,12 +162,13 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  padding: 20px;
   gap: 30px;
   position: relative;
   margin: auto;
   background-color: #8e85ec;
   width: 400px;
-  height: 200px;
+  height: 270px;
 }
 
 .resume-popap {
