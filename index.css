@@ -328,6 +328,7 @@ body.lock {
     width: 100vw;
     height: 100vh;
     position: fixed;
+    top: 0;
     left: -100vw;
     margin-top: 0;
     font-size: 30px;
